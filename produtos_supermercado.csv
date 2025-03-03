@@ -1,0 +1,1001 @@
+﻿Produto;Categoria;Quantidade;Venda
+Manteiga;Laticínios;36;68.22
+Sabão em Pó;Limpeza;39;63.5
+Requeijão;Laticínios;24;42.08
+Linguiça;Carnes;23;30.26
+Frango;Carnes;21;61.42
+Iogurte;Laticínios;13;41.17
+Tomate;Hortifruti;32;18.81
+Sabão em Pó;Limpeza;33;77.51
+Queijo;Laticínios;4;59.41
+Feijão;Mercearia;18;32.07
+Queijo;Laticínios;41;44.55
+Carne Bovina;Carnes;31;93.49
+Cerveja;Bebidas;48;8.1
+Cerveja;Bebidas;37;15.93
+Tomate;Hortifruti;40;73.39
+Água;Bebidas;33;87.37
+Linguiça;Carnes;32;10.05
+Iogurte;Laticínios;4;43.05
+Manteiga;Laticínios;47;73.88
+Macarrão;Mercearia;15;81.83
+Carne Bovina;Carnes;3;49.84
+Macarrão;Mercearia;38;39.26
+Esponja;Limpeza;49;9.59
+Linguiça;Carnes;35;21.3
+Farinha;Mercearia;21;64.5
+Tomate;Hortifruti;14;58.29
+Frango;Carnes;22;29.08
+Detergente;Limpeza;38;74.3
+Queijo;Laticínios;31;88.34
+Arroz;Mercearia;7;38.0
+Banana;Hortifruti;46;60.35
+Queijo;Laticínios;18;49.62
+Suco;Bebidas;28;2.01
+Cenoura;Hortifruti;20;97.4
+Refrigerante;Bebidas;14;45.95
+Sabão em Pó;Limpeza;48;1.27
+Açúcar;Mercearia;1;88.19
+Sabão em Pó;Limpeza;10;54.63
+Feijão;Mercearia;17;95.31
+Amaciante;Limpeza;33;83.79
+Carne Suína;Carnes;39;82.29
+Cerveja;Bebidas;39;4.5
+Leite;Laticínios;44;29.66
+Farinha;Mercearia;12;62.08
+Tomate;Hortifruti;44;58.83
+Tomate;Hortifruti;48;92.47
+Cenoura;Hortifruti;2;27.26
+Água;Bebidas;39;37.66
+Frango;Carnes;20;70.18
+Esponja;Limpeza;34;47.74
+Amaciante;Limpeza;1;18.07
+Linguiça;Carnes;23;43.47
+Batata;Hortifruti;4;10.53
+Suco;Bebidas;31;94.07
+Frango;Carnes;10;42.58
+Maçã;Hortifruti;16;95.57
+Feijão;Mercearia;26;47.04
+Água Sanitária;Limpeza;3;52.88
+Sabão em Pó;Limpeza;23;33.48
+Vinho;Bebidas;30;99.12
+Batata;Hortifruti;23;74.23
+Água Sanitária;Limpeza;3;73.68
+Batata;Hortifruti;50;65.37
+Sabão em Pó;Limpeza;32;15.25
+Manteiga;Laticínios;18;6.87
+Vinho;Bebidas;36;22.17
+Iogurte;Laticínios;30;34.34
+Arroz;Mercearia;33;93.87
+Linguiça;Carnes;3;13.79
+Peixe;Carnes;13;30.83
+Carne Suína;Carnes;30;37.24
+Farinha;Mercearia;24;52.16
+Suco;Bebidas;16;77.07
+Refrigerante;Bebidas;10;56.15
+Suco;Bebidas;15;34.79
+Peixe;Carnes;9;90.86
+Manteiga;Laticínios;15;75.02
+Vinho;Bebidas;16;51.03
+Detergente;Limpeza;15;63.6
+Detergente;Limpeza;28;56.21
+Cerveja;Bebidas;47;12.05
+Água;Bebidas;25;63.33
+Detergente;Limpeza;15;73.67
+Esponja;Limpeza;5;22.46
+Tomate;Hortifruti;18;94.36
+Vinho;Bebidas;14;60.86
+Cenoura;Hortifruti;14;51.3
+Vinho;Bebidas;39;45.06
+Água;Bebidas;49;68.1
+Farinha;Mercearia;13;75.81
+Água;Bebidas;49;11.94
+Requeijão;Laticínios;14;47.85
+Macarrão;Mercearia;46;6.82
+Vinho;Bebidas;49;89.31
+Iogurte;Laticínios;40;65.79
+Batata;Hortifruti;8;83.37
+Banana;Hortifruti;44;40.9
+Maçã;Hortifruti;3;73.11
+Leite;Laticínios;16;61.4
+Macarrão;Mercearia;4;43.34
+Tomate;Hortifruti;3;70.03
+Tomate;Hortifruti;48;67.24
+Vinho;Bebidas;50;3.08
+Manteiga;Laticínios;3;77.69
+Esponja;Limpeza;13;55.96
+Manteiga;Laticínios;9;36.31
+Sabão em Pó;Limpeza;33;83.18
+Água Sanitária;Limpeza;30;96.02
+Cenoura;Hortifruti;9;3.04
+Amaciante;Limpeza;49;86.42
+Frango;Carnes;8;98.3
+Sabão em Pó;Limpeza;33;82.06
+Cenoura;Hortifruti;5;4.45
+Queijo;Laticínios;3;42.05
+Açúcar;Mercearia;37;44.88
+Leite;Laticínios;47;6.7
+Água Sanitária;Limpeza;21;12.49
+Refrigerante;Bebidas;37;26.01
+Feijão;Mercearia;31;44.69
+Macarrão;Mercearia;13;92.16
+Refrigerante;Bebidas;24;20.02
+Detergente;Limpeza;14;41.26
+Açúcar;Mercearia;27;68.54
+Requeijão;Laticínios;41;30.62
+Frango;Carnes;31;87.76
+Frango;Carnes;11;17.41
+Maçã;Hortifruti;19;90.48
+Suco;Bebidas;25;76.75
+Queijo;Laticínios;16;36.38
+Água;Bebidas;12;20.49
+Água Sanitária;Limpeza;18;98.53
+Tomate;Hortifruti;11;27.9
+Arroz;Mercearia;5;55.22
+Leite;Laticínios;31;56.58
+Suco;Bebidas;24;93.02
+Linguiça;Carnes;41;75.5
+Amaciante;Limpeza;41;15.76
+Esponja;Limpeza;32;8.56
+Açúcar;Mercearia;8;63.64
+Refrigerante;Bebidas;11;69.47
+Vinho;Bebidas;22;98.62
+Cerveja;Bebidas;11;97.47
+Feijão;Mercearia;16;93.48
+Queijo;Laticínios;7;22.45
+Linguiça;Carnes;10;7.74
+Açúcar;Mercearia;12;41.45
+Carne Bovina;Carnes;39;42.46
+Água;Bebidas;36;70.21
+Farinha;Mercearia;40;35.87
+Iogurte;Laticínios;28;20.7
+Refrigerante;Bebidas;46;94.63
+Sabão em Pó;Limpeza;48;91.19
+Carne Bovina;Carnes;12;98.64
+Esponja;Limpeza;38;5.31
+Cerveja;Bebidas;10;92.87
+Macarrão;Mercearia;12;4.78
+Iogurte;Laticínios;17;6.07
+Banana;Hortifruti;43;9.38
+Banana;Hortifruti;10;84.66
+Requeijão;Laticínios;1;84.42
+Feijão;Mercearia;11;31.07
+Manteiga;Laticínios;7;3.55
+Carne Suína;Carnes;19;95.93
+Banana;Hortifruti;40;12.96
+Queijo;Laticínios;4;81.94
+Frango;Carnes;50;10.35
+Vinho;Bebidas;14;18.2
+Sabão em Pó;Limpeza;34;16.54
+Linguiça;Carnes;20;33.27
+Detergente;Limpeza;31;73.41
+Esponja;Limpeza;27;67.5
+Feijão;Mercearia;22;73.67
+Cenoura;Hortifruti;10;46.27
+Água Sanitária;Limpeza;10;22.98
+Requeijão;Laticínios;15;88.11
+Água Sanitária;Limpeza;32;3.83
+Esponja;Limpeza;48;88.42
+Suco;Bebidas;44;48.37
+Amaciante;Limpeza;42;61.76
+Suco;Bebidas;16;13.5
+Farinha;Mercearia;39;18.16
+Leite;Laticínios;27;55.13
+Macarrão;Mercearia;32;56.46
+Carne Suína;Carnes;35;49.96
+Iogurte;Laticínios;42;67.04
+Refrigerante;Bebidas;18;63.67
+Feijão;Mercearia;3;97.82
+Frango;Carnes;32;97.35
+Maçã;Hortifruti;41;5.89
+Queijo;Laticínios;12;44.74
+Sabão em Pó;Limpeza;5;41.31
+Queijo;Laticínios;13;26.36
+Detergente;Limpeza;28;44.98
+Feijão;Mercearia;30;49.58
+Sabão em Pó;Limpeza;25;2.22
+Cenoura;Hortifruti;27;13.41
+Queijo;Laticínios;22;87.0
+Amaciante;Limpeza;19;50.43
+Leite;Laticínios;21;9.95
+Água;Bebidas;2;24.9
+Água Sanitária;Limpeza;6;24.55
+Peixe;Carnes;31;95.6
+Suco;Bebidas;23;93.99
+Arroz;Mercearia;47;98.83
+Água;Bebidas;42;15.54
+Peixe;Carnes;32;21.37
+Iogurte;Laticínios;5;75.66
+Tomate;Hortifruti;33;62.2
+Cerveja;Bebidas;19;13.43
+Arroz;Mercearia;17;60.05
+Banana;Hortifruti;25;50.44
+Amaciante;Limpeza;6;66.46
+Refrigerante;Bebidas;40;50.15
+Água Sanitária;Limpeza;28;91.37
+Açúcar;Mercearia;25;79.62
+Iogurte;Laticínios;19;83.64
+Macarrão;Mercearia;44;82.7
+Macarrão;Mercearia;47;95.52
+Macarrão;Mercearia;14;36.63
+Tomate;Hortifruti;47;50.45
+Carne Suína;Carnes;15;88.96
+Peixe;Carnes;45;64.06
+Manteiga;Laticínios;39;48.56
+Esponja;Limpeza;17;30.81
+Detergente;Limpeza;25;53.49
+Esponja;Limpeza;27;86.39
+Feijão;Mercearia;36;94.5
+Linguiça;Carnes;50;49.39
+Cerveja;Bebidas;15;25.47
+Carne Bovina;Carnes;4;45.16
+Cerveja;Bebidas;4;86.08
+Arroz;Mercearia;34;16.43
+Carne Suína;Carnes;28;60.15
+Farinha;Mercearia;14;76.31
+Peixe;Carnes;33;79.81
+Água Sanitária;Limpeza;48;63.98
+Cenoura;Hortifruti;26;39.81
+Cenoura;Hortifruti;47;81.04
+Tomate;Hortifruti;23;61.24
+Vinho;Bebidas;33;68.63
+Suco;Bebidas;32;5.05
+Esponja;Limpeza;15;71.04
+Vinho;Bebidas;45;5.56
+Água;Bebidas;40;28.66
+Carne Suína;Carnes;2;92.09
+Batata;Hortifruti;37;81.86
+Refrigerante;Bebidas;35;3.83
+Tomate;Hortifruti;41;84.02
+Peixe;Carnes;29;86.45
+Carne Bovina;Carnes;1;81.22
+Tomate;Hortifruti;39;47.2
+Batata;Hortifruti;34;83.06
+Farinha;Mercearia;44;38.73
+Tomate;Hortifruti;32;37.27
+Linguiça;Carnes;35;96.84
+Carne Bovina;Carnes;4;97.11
+Banana;Hortifruti;41;74.2
+Esponja;Limpeza;24;65.36
+Amaciante;Limpeza;5;97.6
+Sabão em Pó;Limpeza;21;78.26
+Batata;Hortifruti;39;50.55
+Banana;Hortifruti;28;27.09
+Amaciante;Limpeza;35;35.92
+Sabão em Pó;Limpeza;32;54.27
+Farinha;Mercearia;11;56.21
+Arroz;Mercearia;9;86.42
+Água Sanitária;Limpeza;14;89.0
+Detergente;Limpeza;37;51.11
+Feijão;Mercearia;31;81.62
+Suco;Bebidas;24;68.7
+Manteiga;Laticínios;49;77.19
+Carne Suína;Carnes;42;1.11
+Batata;Hortifruti;50;93.81
+Tomate;Hortifruti;31;42.54
+Sabão em Pó;Limpeza;31;60.64
+Amaciante;Limpeza;14;20.5
+Vinho;Bebidas;6;96.74
+Cerveja;Bebidas;39;61.94
+Água Sanitária;Limpeza;47;98.78
+Linguiça;Carnes;40;56.16
+Tomate;Hortifruti;44;19.88
+Carne Suína;Carnes;11;37.39
+Arroz;Mercearia;3;83.85
+Tomate;Hortifruti;2;4.16
+Requeijão;Laticínios;22;6.03
+Refrigerante;Bebidas;44;2.77
+Açúcar;Mercearia;48;53.3
+Esponja;Limpeza;11;55.26
+Açúcar;Mercearia;25;92.83
+Banana;Hortifruti;24;34.87
+Cerveja;Bebidas;8;16.09
+Vinho;Bebidas;43;27.53
+Queijo;Laticínios;3;26.63
+Batata;Hortifruti;27;46.27
+Esponja;Limpeza;22;73.43
+Maçã;Hortifruti;33;10.91
+Cenoura;Hortifruti;10;34.22
+Peixe;Carnes;41;97.13
+Vinho;Bebidas;9;70.42
+Açúcar;Mercearia;13;43.44
+Cerveja;Bebidas;20;88.59
+Maçã;Hortifruti;42;28.36
+Cenoura;Hortifruti;35;44.36
+Frango;Carnes;22;92.64
+Macarrão;Mercearia;23;38.94
+Manteiga;Laticínios;14;31.76
+Suco;Bebidas;4;28.06
+Queijo;Laticínios;28;3.06
+Feijão;Mercearia;33;93.29
+Vinho;Bebidas;34;4.04
+Batata;Hortifruti;48;64.75
+Água Sanitária;Limpeza;41;69.89
+Frango;Carnes;31;76.32
+Carne Bovina;Carnes;14;11.59
+Iogurte;Laticínios;15;95.41
+Feijão;Mercearia;37;16.52
+Peixe;Carnes;18;40.13
+Queijo;Laticínios;19;6.27
+Arroz;Mercearia;43;22.63
+Requeijão;Laticínios;41;63.54
+Frango;Carnes;19;52.14
+Água Sanitária;Limpeza;13;58.97
+Água Sanitária;Limpeza;36;39.87
+Iogurte;Laticínios;1;8.98
+Vinho;Bebidas;24;59.54
+Farinha;Mercearia;32;54.25
+Tomate;Hortifruti;43;22.43
+Cerveja;Bebidas;12;66.61
+Maçã;Hortifruti;36;30.65
+Arroz;Mercearia;5;60.4
+Carne Bovina;Carnes;46;13.43
+Açúcar;Mercearia;43;45.05
+Carne Bovina;Carnes;42;76.36
+Iogurte;Laticínios;13;46.65
+Arroz;Mercearia;30;38.77
+Tomate;Hortifruti;39;58.83
+Requeijão;Laticínios;29;62.95
+Farinha;Mercearia;16;52.41
+Frango;Carnes;32;25.46
+Farinha;Mercearia;20;73.23
+Feijão;Mercearia;1;16.57
+Cenoura;Hortifruti;29;49.78
+Sabão em Pó;Limpeza;27;2.02
+Água;Bebidas;45;89.74
+Amaciante;Limpeza;48;96.9
+Banana;Hortifruti;48;85.9
+Maçã;Hortifruti;39;1.13
+Carne Suína;Carnes;24;14.45
+Feijão;Mercearia;49;43.54
+Tomate;Hortifruti;8;94.16
+Sabão em Pó;Limpeza;20;98.91
+Esponja;Limpeza;11;16.61
+Linguiça;Carnes;24;85.55
+Macarrão;Mercearia;43;54.94
+Leite;Laticínios;18;87.56
+Suco;Bebidas;6;49.32
+Carne Suína;Carnes;3;18.12
+Arroz;Mercearia;28;72.5
+Banana;Hortifruti;29;63.57
+Maçã;Hortifruti;15;13.27
+Maçã;Hortifruti;43;44.31
+Batata;Hortifruti;21;86.79
+Vinho;Bebidas;24;53.4
+Linguiça;Carnes;44;78.44
+Batata;Hortifruti;3;26.74
+Amaciante;Limpeza;38;56.16
+Amaciante;Limpeza;17;23.31
+Banana;Hortifruti;33;50.64
+Água;Bebidas;4;18.33
+Carne Suína;Carnes;25;14.18
+Detergente;Limpeza;10;41.16
+Sabão em Pó;Limpeza;49;85.39
+Macarrão;Mercearia;21;99.19
+Carne Suína;Carnes;15;1.41
+Açúcar;Mercearia;35;96.46
+Sabão em Pó;Limpeza;28;29.37
+Vinho;Bebidas;1;40.37
+Suco;Bebidas;26;64.68
+Macarrão;Mercearia;5;24.01
+Farinha;Mercearia;17;90.05
+Detergente;Limpeza;26;56.83
+Batata;Hortifruti;26;84.19
+Amaciante;Limpeza;3;11.16
+Detergente;Limpeza;39;37.69
+Amaciante;Limpeza;19;52.61
+Feijão;Mercearia;47;12.47
+Maçã;Hortifruti;14;95.99
+Feijão;Mercearia;46;41.54
+Linguiça;Carnes;8;67.72
+Batata;Hortifruti;28;28.29
+Macarrão;Mercearia;25;62.43
+Iogurte;Laticínios;32;28.2
+Linguiça;Carnes;25;49.05
+Carne Suína;Carnes;42;99.41
+Esponja;Limpeza;45;41.92
+Peixe;Carnes;31;77.44
+Tomate;Hortifruti;35;21.62
+Farinha;Mercearia;3;65.72
+Cenoura;Hortifruti;34;23.93
+Água Sanitária;Limpeza;37;72.19
+Detergente;Limpeza;39;2.74
+Maçã;Hortifruti;18;8.99
+Esponja;Limpeza;28;32.67
+Sabão em Pó;Limpeza;21;58.8
+Manteiga;Laticínios;35;64.97
+Macarrão;Mercearia;7;4.72
+Tomate;Hortifruti;41;8.53
+Linguiça;Carnes;11;28.68
+Feijão;Mercearia;22;86.98
+Arroz;Mercearia;49;46.36
+Maçã;Hortifruti;12;20.51
+Cerveja;Bebidas;7;26.28
+Feijão;Mercearia;38;23.44
+Sabão em Pó;Limpeza;29;39.55
+Carne Suína;Carnes;23;72.26
+Requeijão;Laticínios;23;29.25
+Açúcar;Mercearia;41;47.28
+Refrigerante;Bebidas;10;99.33
+Leite;Laticínios;19;82.36
+Linguiça;Carnes;42;19.13
+Água Sanitária;Limpeza;3;61.39
+Linguiça;Carnes;11;26.07
+Queijo;Laticínios;22;31.8
+Carne Bovina;Carnes;17;50.47
+Feijão;Mercearia;40;65.16
+Suco;Bebidas;49;37.28
+Arroz;Mercearia;30;94.23
+Refrigerante;Bebidas;4;5.0
+Tomate;Hortifruti;11;36.87
+Sabão em Pó;Limpeza;14;90.43
+Maçã;Hortifruti;17;84.33
+Manteiga;Laticínios;22;6.29
+Macarrão;Mercearia;49;61.98
+Feijão;Mercearia;26;76.99
+Leite;Laticínios;17;43.67
+Farinha;Mercearia;50;65.69
+Banana;Hortifruti;13;46.83
+Detergente;Limpeza;7;47.38
+Amaciante;Limpeza;11;89.26
+Feijão;Mercearia;8;17.49
+Linguiça;Carnes;39;30.27
+Batata;Hortifruti;35;21.48
+Banana;Hortifruti;42;45.95
+Cenoura;Hortifruti;38;90.0
+Cenoura;Hortifruti;33;30.68
+Refrigerante;Bebidas;2;62.25
+Leite;Laticínios;1;97.22
+Arroz;Mercearia;27;19.34
+Água Sanitária;Limpeza;34;19.67
+Esponja;Limpeza;24;83.68
+Açúcar;Mercearia;42;43.27
+Açúcar;Mercearia;7;26.83
+Carne Suína;Carnes;50;56.52
+Refrigerante;Bebidas;28;17.54
+Açúcar;Mercearia;28;62.34
+Linguiça;Carnes;5;41.7
+Linguiça;Carnes;22;34.45
+Feijão;Mercearia;42;93.22
+Arroz;Mercearia;44;15.33
+Iogurte;Laticínios;18;67.22
+Queijo;Laticínios;20;87.32
+Manteiga;Laticínios;31;10.98
+Maçã;Hortifruti;14;38.34
+Cenoura;Hortifruti;23;1.88
+Requeijão;Laticínios;23;64.11
+Água;Bebidas;22;30.36
+Peixe;Carnes;38;53.28
+Carne Bovina;Carnes;38;21.95
+Queijo;Laticínios;29;61.47
+Macarrão;Mercearia;20;50.53
+Banana;Hortifruti;32;75.15
+Arroz;Mercearia;25;2.92
+Carne Suína;Carnes;2;60.33
+Peixe;Carnes;10;58.38
+Banana;Hortifruti;4;94.58
+Linguiça;Carnes;29;46.79
+Esponja;Limpeza;15;16.76
+Peixe;Carnes;46;82.69
+Feijão;Mercearia;33;19.46
+Arroz;Mercearia;41;76.53
+Sabão em Pó;Limpeza;7;16.63
+Carne Bovina;Carnes;17;54.63
+Carne Suína;Carnes;28;59.23
+Detergente;Limpeza;18;85.28
+Batata;Hortifruti;4;88.66
+Feijão;Mercearia;10;66.94
+Suco;Bebidas;43;19.73
+Leite;Laticínios;1;89.33
+Vinho;Bebidas;4;50.53
+Carne Bovina;Carnes;44;55.45
+Banana;Hortifruti;21;29.78
+Macarrão;Mercearia;5;79.54
+Tomate;Hortifruti;29;79.19
+Requeijão;Laticínios;17;61.12
+Esponja;Limpeza;21;13.8
+Iogurte;Laticínios;33;98.43
+Vinho;Bebidas;40;86.03
+Água;Bebidas;41;93.52
+Leite;Laticínios;16;32.49
+Água Sanitária;Limpeza;19;35.69
+Batata;Hortifruti;46;96.56
+Iogurte;Laticínios;20;22.47
+Frango;Carnes;42;22.91
+Iogurte;Laticínios;32;13.14
+Água;Bebidas;20;39.67
+Frango;Carnes;15;76.78
+Cenoura;Hortifruti;31;46.69
+Feijão;Mercearia;11;8.43
+Amaciante;Limpeza;46;17.31
+Vinho;Bebidas;15;33.69
+Banana;Hortifruti;9;17.15
+Farinha;Mercearia;27;27.19
+Manteiga;Laticínios;50;59.19
+Arroz;Mercearia;15;62.37
+Cenoura;Hortifruti;45;21.37
+Manteiga;Laticínios;6;90.34
+Carne Bovina;Carnes;31;18.62
+Maçã;Hortifruti;34;36.67
+Banana;Hortifruti;12;32.16
+Macarrão;Mercearia;22;72.88
+Carne Bovina;Carnes;20;43.71
+Queijo;Laticínios;17;48.19
+Açúcar;Mercearia;22;60.41
+Cerveja;Bebidas;14;56.1
+Banana;Hortifruti;10;76.77
+Cenoura;Hortifruti;34;98.61
+Farinha;Mercearia;39;34.85
+Arroz;Mercearia;15;83.19
+Frango;Carnes;22;88.86
+Tomate;Hortifruti;35;92.1
+Banana;Hortifruti;12;60.48
+Refrigerante;Bebidas;30;22.57
+Açúcar;Mercearia;21;61.17
+Sabão em Pó;Limpeza;28;96.72
+Água Sanitária;Limpeza;48;16.66
+Peixe;Carnes;21;50.29
+Esponja;Limpeza;26;88.1
+Banana;Hortifruti;39;5.38
+Leite;Laticínios;11;53.19
+Leite;Laticínios;11;68.56
+Batata;Hortifruti;44;33.92
+Vinho;Bebidas;24;81.39
+Arroz;Mercearia;40;19.76
+Peixe;Carnes;20;65.27
+Esponja;Limpeza;34;61.93
+Arroz;Mercearia;45;73.92
+Cenoura;Hortifruti;45;87.5
+Iogurte;Laticínios;8;19.7
+Maçã;Hortifruti;29;42.37
+Peixe;Carnes;21;45.97
+Peixe;Carnes;48;65.78
+Arroz;Mercearia;39;49.29
+Esponja;Limpeza;18;70.45
+Arroz;Mercearia;15;24.42
+Arroz;Mercearia;41;42.22
+Peixe;Carnes;49;79.36
+Linguiça;Carnes;43;33.61
+Cenoura;Hortifruti;34;21.2
+Arroz;Mercearia;41;37.12
+Carne Bovina;Carnes;36;38.77
+Frango;Carnes;35;4.35
+Açúcar;Mercearia;8;9.32
+Água Sanitária;Limpeza;31;98.23
+Banana;Hortifruti;24;96.09
+Carne Bovina;Carnes;20;50.05
+Esponja;Limpeza;26;51.81
+Sabão em Pó;Limpeza;21;48.93
+Cenoura;Hortifruti;41;73.01
+Queijo;Laticínios;19;6.89
+Maçã;Hortifruti;13;93.16
+Macarrão;Mercearia;1;51.93
+Detergente;Limpeza;11;78.51
+Maçã;Hortifruti;25;64.75
+Leite;Laticínios;32;79.92
+Carne Bovina;Carnes;29;90.12
+Queijo;Laticínios;7;23.99
+Frango;Carnes;40;56.09
+Tomate;Hortifruti;20;37.04
+Leite;Laticínios;47;26.13
+Carne Bovina;Carnes;34;97.17
+Vinho;Bebidas;19;20.13
+Carne Suína;Carnes;35;19.35
+Requeijão;Laticínios;22;15.62
+Iogurte;Laticínios;23;15.96
+Cerveja;Bebidas;46;32.66
+Carne Suína;Carnes;29;50.94
+Requeijão;Laticínios;5;8.23
+Banana;Hortifruti;5;64.71
+Sabão em Pó;Limpeza;43;14.82
+Frango;Carnes;48;22.98
+Farinha;Mercearia;18;58.65
+Maçã;Hortifruti;50;44.89
+Batata;Hortifruti;24;93.57
+Esponja;Limpeza;11;13.44
+Feijão;Mercearia;26;20.94
+Amaciante;Limpeza;20;62.8
+Cenoura;Hortifruti;13;97.1
+Manteiga;Laticínios;44;52.58
+Feijão;Mercearia;1;55.38
+Leite;Laticínios;25;7.27
+Açúcar;Mercearia;29;98.17
+Detergente;Limpeza;11;19.62
+Macarrão;Mercearia;21;5.66
+Vinho;Bebidas;1;2.72
+Tomate;Hortifruti;28;15.9
+Manteiga;Laticínios;15;77.49
+Suco;Bebidas;15;9.68
+Peixe;Carnes;26;14.39
+Linguiça;Carnes;17;27.42
+Açúcar;Mercearia;11;72.91
+Refrigerante;Bebidas;40;71.88
+Carne Suína;Carnes;3;18.64
+Cerveja;Bebidas;48;4.12
+Manteiga;Laticínios;3;50.57
+Batata;Hortifruti;15;79.84
+Feijão;Mercearia;30;99.63
+Iogurte;Laticínios;40;82.21
+Peixe;Carnes;13;87.46
+Linguiça;Carnes;11;32.0
+Cerveja;Bebidas;40;45.64
+Cenoura;Hortifruti;34;40.3
+Refrigerante;Bebidas;39;78.0
+Arroz;Mercearia;11;91.48
+Arroz;Mercearia;22;78.57
+Peixe;Carnes;3;85.84
+Queijo;Laticínios;33;87.34
+Manteiga;Laticínios;42;94.17
+Cenoura;Hortifruti;5;9.43
+Água Sanitária;Limpeza;34;87.43
+Detergente;Limpeza;19;40.13
+Vinho;Bebidas;4;50.08
+Sabão em Pó;Limpeza;50;5.47
+Maçã;Hortifruti;9;25.54
+Arroz;Mercearia;30;18.6
+Carne Suína;Carnes;10;61.02
+Banana;Hortifruti;36;26.28
+Detergente;Limpeza;43;18.31
+Carne Bovina;Carnes;47;25.19
+Água;Bebidas;14;44.58
+Frango;Carnes;43;27.26
+Farinha;Mercearia;45;22.0
+Vinho;Bebidas;29;34.88
+Cenoura;Hortifruti;36;30.19
+Feijão;Mercearia;24;98.35
+Requeijão;Laticínios;15;26.41
+Frango;Carnes;26;61.24
+Sabão em Pó;Limpeza;17;39.48
+Suco;Bebidas;33;41.15
+Linguiça;Carnes;47;94.25
+Refrigerante;Bebidas;27;33.24
+Carne Bovina;Carnes;13;91.55
+Tomate;Hortifruti;8;97.01
+Frango;Carnes;46;33.84
+Sabão em Pó;Limpeza;28;37.38
+Peixe;Carnes;17;1.33
+Requeijão;Laticínios;12;47.42
+Arroz;Mercearia;6;51.03
+Banana;Hortifruti;40;87.29
+Arroz;Mercearia;34;20.42
+Farinha;Mercearia;18;98.45
+Maçã;Hortifruti;20;53.92
+Cenoura;Hortifruti;38;88.12
+Farinha;Mercearia;43;17.91
+Água Sanitária;Limpeza;24;73.49
+Arroz;Mercearia;46;20.87
+Frango;Carnes;4;5.65
+Requeijão;Laticínios;17;70.98
+Arroz;Mercearia;35;35.71
+Banana;Hortifruti;13;27.32
+Batata;Hortifruti;22;1.24
+Água;Bebidas;9;26.99
+Água;Bebidas;30;95.9
+Detergente;Limpeza;43;86.3
+Farinha;Mercearia;42;67.1
+Farinha;Mercearia;19;75.87
+Frango;Carnes;5;14.76
+Cerveja;Bebidas;30;91.68
+Banana;Hortifruti;8;99.49
+Carne Bovina;Carnes;32;78.53
+Frango;Carnes;21;78.51
+Linguiça;Carnes;23;19.64
+Tomate;Hortifruti;10;6.28
+Carne Suína;Carnes;5;52.74
+Feijão;Mercearia;14;43.08
+Arroz;Mercearia;50;88.43
+Iogurte;Laticínios;46;38.44
+Batata;Hortifruti;22;56.63
+Maçã;Hortifruti;37;16.21
+Maçã;Hortifruti;12;89.78
+Macarrão;Mercearia;19;33.62
+Cerveja;Bebidas;9;60.99
+Batata;Hortifruti;22;72.63
+Cenoura;Hortifruti;41;67.35
+Sabão em Pó;Limpeza;41;83.26
+Detergente;Limpeza;15;29.81
+Maçã;Hortifruti;10;41.72
+Frango;Carnes;5;52.54
+Vinho;Bebidas;31;43.03
+Açúcar;Mercearia;11;4.42
+Manteiga;Laticínios;43;65.88
+Água Sanitária;Limpeza;18;44.9
+Refrigerante;Bebidas;14;30.89
+Frango;Carnes;20;23.56
+Água;Bebidas;49;58.33
+Batata;Hortifruti;25;26.51
+Suco;Bebidas;48;24.2
+Cerveja;Bebidas;44;50.84
+Esponja;Limpeza;17;5.59
+Macarrão;Mercearia;44;55.42
+Linguiça;Carnes;12;42.71
+Suco;Bebidas;8;32.61
+Leite;Laticínios;16;20.74
+Arroz;Mercearia;39;94.43
+Suco;Bebidas;25;90.39
+Água Sanitária;Limpeza;9;68.81
+Água;Bebidas;35;6.39
+Maçã;Hortifruti;26;73.53
+Arroz;Mercearia;44;77.02
+Linguiça;Carnes;28;26.13
+Feijão;Mercearia;4;38.74
+Manteiga;Laticínios;44;13.39
+Linguiça;Carnes;44;34.9
+Frango;Carnes;9;90.23
+Carne Suína;Carnes;7;33.43
+Esponja;Limpeza;2;75.27
+Refrigerante;Bebidas;8;59.09
+Batata;Hortifruti;46;95.74
+Tomate;Hortifruti;19;49.67
+Detergente;Limpeza;35;77.52
+Leite;Laticínios;3;37.93
+Vinho;Bebidas;8;68.98
+Queijo;Laticínios;12;68.91
+Açúcar;Mercearia;9;73.21
+Vinho;Bebidas;10;57.8
+Iogurte;Laticínios;35;36.15
+Frango;Carnes;25;22.07
+Feijão;Mercearia;25;69.98
+Sabão em Pó;Limpeza;45;9.8
+Requeijão;Laticínios;33;48.82
+Amaciante;Limpeza;16;44.71
+Tomate;Hortifruti;15;6.14
+Esponja;Limpeza;45;84.9
+Sabão em Pó;Limpeza;14;50.71
+Cenoura;Hortifruti;16;93.02
+Amaciante;Limpeza;8;60.45
+Detergente;Limpeza;38;15.54
+Cerveja;Bebidas;22;43.92
+Tomate;Hortifruti;14;99.68
+Detergente;Limpeza;30;94.56
+Amaciante;Limpeza;18;66.21
+Amaciante;Limpeza;3;12.59
+Carne Suína;Carnes;14;15.66
+Detergente;Limpeza;30;21.21
+Iogurte;Laticínios;36;71.8
+Manteiga;Laticínios;8;89.45
+Açúcar;Mercearia;36;28.65
+Cenoura;Hortifruti;36;61.42
+Manteiga;Laticínios;23;8.14
+Detergente;Limpeza;18;77.96
+Farinha;Mercearia;3;57.48
+Iogurte;Laticínios;46;79.55
+Carne Suína;Carnes;9;42.1
+Queijo;Laticínios;4;91.41
+Amaciante;Limpeza;44;59.95
+Linguiça;Carnes;27;15.18
+Vinho;Bebidas;19;78.32
+Açúcar;Mercearia;5;12.1
+Amaciante;Limpeza;17;46.92
+Frango;Carnes;29;5.49
+Linguiça;Carnes;30;39.7
+Feijão;Mercearia;37;97.3
+Manteiga;Laticínios;21;98.88
+Requeijão;Laticínios;1;57.37
+Queijo;Laticínios;13;3.19
+Carne Bovina;Carnes;5;94.15
+Esponja;Limpeza;27;25.89
+Peixe;Carnes;32;91.57
+Manteiga;Laticínios;42;94.01
+Vinho;Bebidas;30;15.35
+Feijão;Mercearia;28;14.12
+Queijo;Laticínios;37;49.6
+Requeijão;Laticínios;5;26.8
+Feijão;Mercearia;44;65.53
+Requeijão;Laticínios;17;64.61
+Linguiça;Carnes;44;99.25
+Batata;Hortifruti;27;62.01
+Iogurte;Laticínios;31;85.35
+Iogurte;Laticínios;31;82.23
+Refrigerante;Bebidas;47;85.6
+Açúcar;Mercearia;2;19.82
+Linguiça;Carnes;15;89.79
+Água;Bebidas;7;70.21
+Carne Suína;Carnes;29;65.75
+Arroz;Mercearia;45;41.65
+Sabão em Pó;Limpeza;46;34.82
+Linguiça;Carnes;3;5.12
+Vinho;Bebidas;24;68.71
+Peixe;Carnes;2;27.37
+Água Sanitária;Limpeza;49;70.28
+Banana;Hortifruti;46;4.42
+Linguiça;Carnes;48;7.85
+Manteiga;Laticínios;9;63.46
+Banana;Hortifruti;43;24.85
+Esponja;Limpeza;35;61.11
+Cerveja;Bebidas;27;71.2
+Batata;Hortifruti;38;36.91
+Feijão;Mercearia;22;46.99
+Vinho;Bebidas;34;69.35
+Carne Suína;Carnes;42;62.44
+Banana;Hortifruti;1;61.85
+Batata;Hortifruti;46;54.34
+Esponja;Limpeza;12;22.61
+Carne Suína;Carnes;1;76.6
+Cerveja;Bebidas;43;73.8
+Leite;Laticínios;17;21.95
+Detergente;Limpeza;37;1.49
+Leite;Laticínios;34;24.18
+Amaciante;Limpeza;13;20.44
+Iogurte;Laticínios;14;42.91
+Maçã;Hortifruti;39;10.83
+Açúcar;Mercearia;19;13.19
+Água;Bebidas;5;54.29
+Linguiça;Carnes;9;94.43
+Cerveja;Bebidas;20;47.93
+Farinha;Mercearia;12;3.85
+Farinha;Mercearia;8;39.7
+Feijão;Mercearia;9;28.61
+Detergente;Limpeza;41;49.92
+Água Sanitária;Limpeza;22;19.42
+Carne Bovina;Carnes;32;12.67
+Queijo;Laticínios;34;10.83
+Banana;Hortifruti;10;68.87
+Amaciante;Limpeza;48;73.27
+Tomate;Hortifruti;3;45.41
+Tomate;Hortifruti;48;77.76
+Cerveja;Bebidas;27;76.29
+Esponja;Limpeza;42;75.15
+Carne Suína;Carnes;8;70.37
+Maçã;Hortifruti;5;37.93
+Cenoura;Hortifruti;44;84.39
+Suco;Bebidas;16;99.3
+Macarrão;Mercearia;13;21.54
+Feijão;Mercearia;47;15.47
+Arroz;Mercearia;19;90.86
+Iogurte;Laticínios;3;62.86
+Iogurte;Laticínios;25;66.74
+Linguiça;Carnes;33;13.1
+Água Sanitária;Limpeza;22;7.81
+Água Sanitária;Limpeza;33;13.23
+Leite;Laticínios;42;25.51
+Linguiça;Carnes;30;77.86
+Água;Bebidas;39;11.42
+Iogurte;Laticínios;50;23.29
+Peixe;Carnes;5;89.59
+Vinho;Bebidas;40;37.19
+Iogurte;Laticínios;8;6.81
+Sabão em Pó;Limpeza;25;62.26
+Peixe;Carnes;35;7.97
+Água Sanitária;Limpeza;35;59.48
+Cenoura;Hortifruti;28;5.5
+Açúcar;Mercearia;20;24.33
+Água Sanitária;Limpeza;45;72.81
+Refrigerante;Bebidas;12;23.25
+Iogurte;Laticínios;33;64.44
+Cerveja;Bebidas;2;27.32
+Arroz;Mercearia;3;34.91
+Tomate;Hortifruti;31;33.46
+Linguiça;Carnes;15;74.97
+Queijo;Laticínios;4;95.19
+Feijão;Mercearia;9;41.38
+Água;Bebidas;23;58.06
+Água Sanitária;Limpeza;16;31.62
+Amaciante;Limpeza;37;81.58
+Queijo;Laticínios;40;17.91
+Carne Suína;Carnes;14;94.31
+Amaciante;Limpeza;46;5.81
+Água Sanitária;Limpeza;32;74.02
+Maçã;Hortifruti;38;58.07
+Maçã;Hortifruti;50;79.99
+Refrigerante;Bebidas;20;93.97
+Requeijão;Laticínios;22;45.66
+Suco;Bebidas;38;62.75
+Arroz;Mercearia;25;41.44
+Requeijão;Laticínios;40;15.26
+Carne Suína;Carnes;49;39.52
+Queijo;Laticínios;2;2.93
+Banana;Hortifruti;26;1.01
+Batata;Hortifruti;5;94.42
+Vinho;Bebidas;48;61.14
+Água Sanitária;Limpeza;28;41.68
+Refrigerante;Bebidas;20;18.43
+Detergente;Limpeza;40;4.84
+Detergente;Limpeza;13;86.35
+Água Sanitária;Limpeza;27;86.64
+Água Sanitária;Limpeza;36;58.81
+Macarrão;Mercearia;20;60.59
+Esponja;Limpeza;22;26.42
+Cerveja;Bebidas;18;78.7
+Queijo;Laticínios;10;68.89
+Tomate;Hortifruti;49;56.26
+Carne Suína;Carnes;37;82.61
+Água;Bebidas;22;5.59
+Cerveja;Bebidas;6;21.87
+Manteiga;Laticínios;4;41.62
+Carne Suína;Carnes;49;44.97
+Farinha;Mercearia;32;63.42
+Queijo;Laticínios;16;38.99
+Maçã;Hortifruti;33;4.58
+Suco;Bebidas;33;80.77
+Suco;Bebidas;34;14.53
+Refrigerante;Bebidas;7;18.49
+Sabão em Pó;Limpeza;11;10.08
+Banana;Hortifruti;1;9.51
+Detergente;Limpeza;15;83.4
+Macarrão;Mercearia;26;17.53
+Banana;Hortifruti;15;69.35
+Açúcar;Mercearia;42;1.97
+Água Sanitária;Limpeza;25;60.98
+Carne Suína;Carnes;11;97.05
+Linguiça;Carnes;41;96.08
+Carne Bovina;Carnes;3;4.91
+Iogurte;Laticínios;20;90.4
+Açúcar;Mercearia;8;53.46
+Queijo;Laticínios;30;18.79
+Suco;Bebidas;50;33.8
+Requeijão;Laticínios;14;29.6
+Vinho;Bebidas;24;87.52
+Açúcar;Mercearia;8;31.48
+Feijão;Mercearia;46;99.98
+Arroz;Mercearia;28;56.35
+Peixe;Carnes;43;1.82
+Arroz;Mercearia;26;16.42
+Suco;Bebidas;43;28.56
+Cenoura;Hortifruti;26;44.56
+Carne Bovina;Carnes;20;24.54
+Tomate;Hortifruti;42;36.38
+Farinha;Mercearia;45;72.78
+Queijo;Laticínios;26;40.67
+Maçã;Hortifruti;11;48.25
+Água;Bebidas;47;27.45
+Maçã;Hortifruti;50;1.69
+Feijão;Mercearia;32;96.87
+Arroz;Mercearia;10;60.57
+Farinha;Mercearia;44;40.12
+Frango;Carnes;36;25.86
+Carne Suína;Carnes;40;61.17
+Batata;Hortifruti;14;85.47
+Leite;Laticínios;33;38.05
+Iogurte;Laticínios;38;10.51
+Cerveja;Bebidas;17;76.68
+Carne Suína;Carnes;3;16.56
+Leite;Laticínios;11;86.74
+Maçã;Hortifruti;1;13.16
+Água;Bebidas;46;71.84
+Arroz;Mercearia;15;90.09
+Carne Suína;Carnes;20;68.81
+Água Sanitária;Limpeza;19;30.09
+Linguiça;Carnes;38;76.62
+Maçã;Hortifruti;44;77.87
+Farinha;Mercearia;17;48.76
+Amaciante;Limpeza;24;74.75
+Tomate;Hortifruti;19;65.4
+Frango;Carnes;50;25.44
+Farinha;Mercearia;36;77.0
+Banana;Hortifruti;30;44.93
+Banana;Hortifruti;11;60.66
+Carne Suína;Carnes;15;45.06
+Esponja;Limpeza;30;14.06
+Carne Suína;Carnes;3;28.98
+Manteiga;Laticínios;42;63.68
+Carne Suína;Carnes;27;69.72
+Carne Bovina;Carnes;34;26.75
+Linguiça;Carnes;43;29.3
+Carne Bovina;Carnes;11;39.06
+Água Sanitária;Limpeza;1;79.6
+Peixe;Carnes;23;14.79
+Leite;Laticínios;39;40.63
+Banana;Hortifruti;14;59.31
+Esponja;Limpeza;47;27.81
+Cerveja;Bebidas;40;95.01
+Vinho;Bebidas;7;49.9
+Requeijão;Laticínios;2;50.62
+Refrigerante;Bebidas;7;6.6
+Sabão em Pó;Limpeza;21;11.22
+Maçã;Hortifruti;34;3.81
+Banana;Hortifruti;22;26.91
+Sabão em Pó;Limpeza;24;31.84
+Esponja;Limpeza;22;73.8
+Manteiga;Laticínios;21;72.85
+Suco;Bebidas;9;87.11
+Carne Bovina;Carnes;29;74.62
+Farinha;Mercearia;26;33.71
+Detergente;Limpeza;18;72.72
+Maçã;Hortifruti;26;11.04
+Batata;Hortifruti;8;20.72
+Queijo;Laticínios;38;8.2
+Frango;Carnes;2;71.52
+Farinha;Mercearia;22;43.73
+Refrigerante;Bebidas;39;52.28
+Feijão;Mercearia;26;29.25
